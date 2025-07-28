@@ -1,2 +1,2 @@
 # recipes
-Recipe website
+Recipe website using basic html and css
